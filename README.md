@@ -16,5 +16,5 @@ The analysis is based on the **Snitch Clothing Sales Dataset**, featuring:
 *   **Transactions:** Approximately 2,500+ records.
 
 ## 🛠️ Tools Used
-*   **Data Visualization:** Microsoft Excel / Power BI
+*   **Data Visualization:** Microsoft Excel 
 *   **Data Source:** Snitch Fashion Sales Dataset
