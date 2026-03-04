@@ -1,4 +1,4 @@
-# EXCEL DASHBOARD: Snitch Fashion Sales Analysis
+ Snitch Fashion Sales Analysis
 
 ## 📌 Project Overview
 This dashboard provides a comprehensive analysis of sales performance for **Snitch**, a leading Indian D2C men's fashion brand. The project focuses on regional profitability and sales trends across major urban hubs.
